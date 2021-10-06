@@ -1,4 +1,4 @@
-Criação de um banco de dados em SQL de uma Vinícola  - Entrega Atividade Prática PUCPR
+Criação de um banco de dados em SQL de uma Vinícola
 
 # Atividade Prática PUCPR - Análise e Desenvolvimento de Sistemas
 
