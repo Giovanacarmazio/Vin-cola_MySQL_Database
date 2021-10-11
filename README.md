@@ -10,7 +10,7 @@ Modelo Conceitual:
 
 E o modelo lógico:
 
-![This is a alt text.](https://github.com/Giovanacarmazio/vinicolabancodedados/blob/92711adca2b20260e6ac60b4713ddac09b999da6/AS_Semana7e8_2.png)
+!(https://github.com/Giovanacarmazio/Vinicola-MYSQL-BD/blob/b5fbfb3c52fc24e9b86e08f1e29fe00cc96b579c/AS_Semana7e8_2.png)
 
 Insira pelo menos 5 registros em cada tabela, mantendo as integridades referenciais.
 Faça uma consulta que liste o nome e ano dos  vinhos, incluindo o nome da vinícula e o nome da região que ela pertence.
